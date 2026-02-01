@@ -12,6 +12,10 @@ By completing this pre-class work, you will:
 * **Identify** the two core Pandas structures: Series and DataFrame.  
 * **Recognize** how to import Pandas and Numpy.
 
+## 🎬 Brief intro of Pandas
+
+* **Watch this video:** [Pandas: Your Data Toolbox](https://youtu.be/QnMPKycUW64?si=7JiFGkIo9Tl9pF6k)
+
 ## **💻 Part 1: Environment Setup (15-20 min)**
 
 ### **Prerequisites**
